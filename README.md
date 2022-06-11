@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-⚡ This will be updated
+<!-- ⚡ This will be updated -->
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [<img align="left" alt="varlam.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br />
@@ -14,3 +14,4 @@
 
 [website]: https://varlam.net
 [twitter]: https://twitter.com/varlamnet
+ -->
